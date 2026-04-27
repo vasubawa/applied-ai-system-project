@@ -233,7 +233,7 @@ Won in 2 attempts with confidence: 0.85
 Won in 6 attempts with confidence: 0.92
 
 === Hard Game (Range 1-1000, Secret 500) ===
-Won in 10 attempts with confidence: 0.90
+Won in 1 attempts with confidence: 100.00
 ```
 
 **`python evaluation_harness.py` Output:**
